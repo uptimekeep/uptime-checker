@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/hedii/uptime-checker.svg?branch=master)](https://travis-ci.org/hedii/uptime-checker)
 
-# Uptime Checker
+# [Uptime Checker](https://uptimekeep.com)
 
 A php library to monitor website uptime
 
